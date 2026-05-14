@@ -15,7 +15,7 @@
 
 </div>
 
-<img width="1774" height="887" alt="976896da-a015-4189-899f-691eb0a232b5" src="https://github.com/user-attachments/assets/8ab141c6-4691-45d9-92f9-5d4eefb6932d" />
+
 
 
 # About
